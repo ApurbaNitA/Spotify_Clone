@@ -58,9 +58,9 @@ align-items: center;
 
 .rightnav ul li{
     list-style-type: none;
-    padding: 57px 10px;
+    padding: 33px 10px;
     /* font-weight: bolder; */
-    font-size: 0.8rem;
+    font-size: 1.0rem;
   
 }
 .container{
