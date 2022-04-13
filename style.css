@@ -102,9 +102,7 @@ align-items: center;
     margin: 0 12px;
     
 }
-.timestamp i{
-    cursor: pointer;
-}
+
 .bottom{
     position: sticky;
     height: 130px;
